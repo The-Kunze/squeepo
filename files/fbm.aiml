@@ -3,5 +3,5 @@
 	<category>
 		<pattern>GET STARTED</pattern>
 		<template>Hello!</template>
-	</category>
+	</category><
 </aiml>
